@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: verdana;
+  font-family: Verdana, sans-serif;
   text-align: center;
 }
 
@@ -26,6 +26,6 @@ p {
   color: gray;
 }
 
-#© {
+.text-right {
   text-align: right;
 }
